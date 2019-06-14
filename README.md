@@ -1,2 +1,2 @@
 # leafletjs
-Working with this library
+Working with Javascript library Leaflet
