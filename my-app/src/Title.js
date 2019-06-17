@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 
-class Map extends Component {
+class Title extends Component {
   render() {
     return (
-      <p>Mapa</p>
+      <p>Titulo</p>
     );
   };
 };
 
-export default Map;
+export default Title;
